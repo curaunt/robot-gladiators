@@ -28,5 +28,6 @@ var fight = function() {
     console.log(
       enemyName + " attacked " + playerName + ". " + playerName + " now has " + playerHealth + " health remaining."
     );
+  };
 
 fight();
